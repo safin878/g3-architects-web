@@ -9,6 +9,11 @@
 .text-light-gray {
   color: #727272;
 }
+.section-title {
+  color: #131313;
+  font-size: 3rem;
+  font-weight: 700;
+}
 .btn-primary {
   border-radius: 8px;
   background: #ff900e;
